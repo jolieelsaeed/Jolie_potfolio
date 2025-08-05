@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { Typewriter } from "react-simple-typewriter";
-import profileImage from "./ProfilePic.jpg";
+import profileImage from "./Profile.jpg";
 import "./App.css"; // This assumes App.css contains all required styles
 
 export default function App() {
